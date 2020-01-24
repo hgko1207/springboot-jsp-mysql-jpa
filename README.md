@@ -6,3 +6,4 @@ Web Template Project
 - Tiles 3.0
 - MySQL
 - JPA
+- Maven

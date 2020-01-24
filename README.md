@@ -1,2 +1,8 @@
 # springboot-jsp-mysql-jpa
-Spring Boot + JSP + MySQL + JPA Template Project
+Web Template Project
+
+- Spring Boot
+- JSP
+- Tiles 3.0
+- MySQL
+- JPA
